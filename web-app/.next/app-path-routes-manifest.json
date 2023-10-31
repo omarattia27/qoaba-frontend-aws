@@ -1,0 +1,9 @@
+{
+  "/page": "/",
+  "/favicon.ico/route": "/favicon.ico",
+  "/questions/page": "/questions",
+  "/auth/portal/page": "/auth/portal",
+  "/questions/[question]/page": "/questions/[question]",
+  "/auth/account/page": "/auth/account",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]"
+}
